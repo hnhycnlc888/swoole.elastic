@@ -1,7 +1,7 @@
 swoole.elastic
 ---
 
-`swoole.elastic`是一个基于`swoole`开发mysql数据同步到elasticSearch的功能。
+`swoole.elastic`是一个基于`swoole`开发`mysql`数据同步到`elasticSearch`的功能。
 
 
 服务器环境
